@@ -18,7 +18,7 @@ b!play <name_music|link_music>  [To tell the bot to play a certain song]
 ```
 b!token  [To receive your panel access TOKEN]
 ```
-<img height="125" src="https://i.imgur.com/cKRdZ6N.png"/>
+<img height="100" src="https://i.imgur.com/cKRdZ6N.png"/>
 
 - Go back to the web-player panel and insert the returned token.
 - Click on the icon beside to validate and login your token.
