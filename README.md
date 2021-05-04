@@ -1,7 +1,9 @@
 # web-player-discord-bot
 A project developed as a web-player panel for a Discord Bot.
 
-This project makes a connection with the exclusive api of a Discord music bot, the exposed project will not work because of this exclusive api of the bot. But have an idea of how it was accomplished, remembering that I am a beginner in this area
+This project makes a connection with the exclusive api of a Discord music bot, the exposed project will not work because of this exclusive api of the bot. But have an idea of how it was accomplished, remembering that I am a beginner in this area.
+
+Project Dashboard: <a href="http://webplayer.bassmaster.ml/" target="_blanck">click here</a>
 
 # Demo
 - Enter the panel's website <a href="" target="_blanck">here</a>.
