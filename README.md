@@ -21,4 +21,4 @@ b!token  [To receive your panel access TOKEN]
 - Go back to the web-player panel and insert the returned token.
 - Click on the icon beside to validate and login your token.
 - Ready! You can now manage your music through a web-player panel.
- <img height="250" src="https://i.imgur.com/lnI5TSp.gif"/>
+ <img height="250" src="https://i.imgur.com/NvrHvOU.gif"/>
